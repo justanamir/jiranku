@@ -1,1 +1,1 @@
-# jiranku
+# jiranku is a fullstack website project I'm creating as a community based website, where starting with a masjid community to become a information disseminating platform within the community which previously revolves around using text messengers or calling. Facebook is not used as to maintain exclusivity where members are to register using their real address within the community with proof (eg. electric bill with address) to confirm that members are truly from that community.
